@@ -1,4 +1,8 @@
-# Remotionを使ってプログラムで動画を作成する（初級編）
+# Remotionで動画作成を試してみた
+
+## Remotion
+
+https://www.remotion.dev/
 
 ## Zenn
 
